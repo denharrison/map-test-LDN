@@ -1,12 +1,12 @@
 import './App.css'
-import {  EditableMap } from './Map'
+import { Map } from './Map'
 
 
 function App() {
 
   return (
     <>
-      <EditableMap />
+      <Map />
     </>
   )
 }
